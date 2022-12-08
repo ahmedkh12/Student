@@ -1,0 +1,11 @@
+form{
+    max-width: 350px;
+    margin: 100px auto;
+    
+}
+
+form input ,
+form textarea, h1{
+    margin-bottom: 20px;
+}
+
